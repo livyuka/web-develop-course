@@ -19,13 +19,13 @@ p {
   width: 100px;
   height: 30px;
   font-family: cursive;
+  margin: 0px;
 }
 
 .title1 {
 	text-align: center;
 	position: relative;
 	float: right;	
-	margin: 0px;
 	background-color: #ff9999;
 	color: black;
 }
@@ -34,7 +34,6 @@ p {
 	text-align: center;
 	position: relative;
 	float: right;
-	margin: 0px;
 	background-color: #A52A2A;
 	color: white;
 }
@@ -43,7 +42,6 @@ p {
 	text-align: center;
 	position: relative;
 	float: right;
-	margin: 0px;
 	background-color: #ffd480;
 	color: black;
 }

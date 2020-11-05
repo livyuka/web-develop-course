@@ -1,0 +1,73 @@
+body {
+  font-size: 16px;
+  color: black;
+  font-family: "COURIER", 'Verdana', arial;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: lightblue;
+  border-radius: 0;
+  border: 0;
+}
+.navbar-brand {
+  padding-top: 15px;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  font-family: "COURIER", 'Verdana', arial;
+  color: black;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+#nav-list {
+  margin-top: 0px;
+  margin-bottom: 0;
+  background-color: #E0FFFF;
+  font-weight: bold;
+}
+#nav-list a {
+  text-align: center;
+}
+/*END HEADER*/
+
+/*HOME PAGE*/
+#our-menu {
+  color: black;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-bottom: 40px;
+}
+
+.row .box-description {
+  align-content: center;
+  background-color: lightblue;
+  margin-bottom: 50px;
+  margin-right: 30px;
+  margin-left: 30px;
+  overflow: hidden;
+}
+
+.title {
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 10px;
+}
+.text {
+  font-family: "Colibri", "Comic Sans";
+  padding: 0 40px;
+  text-align: justify;
+}
+
+/*END HOME PAGE*/
+
