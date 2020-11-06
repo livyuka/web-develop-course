@@ -1,7 +1,7 @@
 body {
   font-size: 16px;
   color: black;
-  font-family: "COURIER", 'Verdana', arial;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 /** HEADER **/
@@ -13,19 +13,13 @@ body {
 .navbar-brand {
   padding-top: 15px;
   text-align: left;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+
 }
 
-.navbar-brand h1 { /* Restaurant name */
-  font-family: "COURIER", 'Verdana', arial;
-  color: black;
-  font-size: 1.5em;
-  text-transform: uppercase;
-  font-weight: bold;
-  text-shadow: 1px 1px 1px #222;
-  margin-top: 0;
-  margin-bottom: 0;
-  line-height: .75;
-}
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
 }
@@ -43,9 +37,9 @@ body {
 /*HOME PAGE*/
 #our-menu {
   color: black;
-  font-weight: bold;
   text-shadow: 1px 1px 1px #222;
   margin-bottom: 40px;
+  margin-top: 30px;
 }
 
 .row .box-description {
@@ -58,7 +52,7 @@ body {
 
 .title {
   font-size: 1.5em;
-  font-weight: bold;
+
   text-shadow: 1px 1px 1px #222;
   margin-top: 10px;
 }
