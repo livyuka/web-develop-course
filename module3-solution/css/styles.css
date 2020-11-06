@@ -9,16 +9,14 @@ body {
   background-color: lightblue;
   border-radius: 0;
   border: 0;
-  height: 70px;
 }
 .navbar-brand {
-  padding-top: 20px;
+  padding-top: 15px;
   text-align: left;
   color: black;
   font-family: Helvetica, Arial;
-  font-size: 35px;
+  font-size: 30px;
   font-weight: bold;
-
 }
 
 .navbar-brand a:hover, .navbar-brand a:focus {
@@ -41,6 +39,7 @@ body {
   text-shadow: 1px 1px 1px #222;
   margin-bottom: 40px;
   margin-top: 30px;
+  font-size: 2em;
 }
 
 .row .box-description {
@@ -53,9 +52,8 @@ body {
 
 .title {
   font-size: 1.5em;
-
   text-shadow: 1px 1px 1px #222;
-  margin-top: 10px;
+  margin-top: 15px;
 }
 .text {
   font-family: "Colibri", "Comic Sans";
